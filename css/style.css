@@ -1,0 +1,38 @@
+html{
+	scroll-behavior:smooth;
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	
+	font-family: 'Raleway', sans-serif;
+}
+
+section{
+	padding-top:75px;
+	padding-bottom:75px;
+}
+/* -- ==== header === */
+
+/*-- ===== home part ====== --*/
+
+/*-- === abs with soft transitioning effect. === --*/
+.tabs .nav-link.active{
+	background-color:#ff8b38!important;
+}
+.tabs .nav-link{
+	background-color:#333333!important;
+	color:white!important;
+}
+/*-- === footer part === --*/
+
+/*-- === media device == --*/
+
+
+
+
+
+
